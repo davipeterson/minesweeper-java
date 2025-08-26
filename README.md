@@ -28,14 +28,12 @@ The program simulates the traditional **Minesweeper** logic:
 ---
 
 ## 🛠️ Technologies
-    ```bash
     - Java (JDK 17+ recommended)
     - Maven (for build and execution)
 
 ---
 
 ## 📂 Project Structure
-    ```bash
     minesweeper-java/
     ├─ src/
     │  └─ main/
