@@ -19,6 +19,16 @@ The program simulates the traditional **Minesweeper** logic:
 
 ---
 
+## 📝 Notes
+This project was created for learning purposes.
+
+It can be extended with:
+- A graphical interface (Swing/JavaFX).
+- Different grid sizes and difficulty levels.
+- Score tracking or multiplayer support.
+
+---
+
 ## 📂 Project Structure
     minesweeper-java/
     ├─ src/
@@ -31,16 +41,6 @@ The program simulates the traditional **Minesweeper** logic:
     ├─ minesweeper.png
     ├─ pom.xml
     └─ README.md
-
----
-
-## 📝 Notes
-This project was created for learning purposes.
-
-It can be extended with:
-- A graphical interface (Swing/JavaFX).
-- Different grid sizes and difficulty levels.
-- Score tracking or multiplayer support.
 
 ---
 
