@@ -13,23 +13,9 @@ The program simulates the traditional **Minesweeper** logic:
 
 ---
 
-## 🚀 How to Run
-
-1. **Clone the repository**:
-   ```bash
-   git clone https://github.com/davi-peterson/minesweeper-java.git
-   cd minesweeper-java
-
-2. **Compile and run with Maven**:
-    ```bash
-    mvn clean compile
-    mvn exec:java -Dexec.mainClass="minesweeper.App"
-
----
-
 ## 🛠️ Technologies
-    - Java (JDK 17+ recommended)
-    - Maven (for build and execution)
+- Java (JDK 17+ recommended)
+- Maven (for build and execution)
 
 ---
 
@@ -46,13 +32,29 @@ The program simulates the traditional **Minesweeper** logic:
     ├─ pom.xml
     └─ README.md
 
-
 ---
 
 ## 📝 Notes
-    This project was created for learning purposes.
+This project was created for learning purposes.
 
-    It can be extended with:
-     - A graphical interface (Swing/JavaFX).
-     - Different grid sizes and difficulty levels.
-     - Score tracking or multiplayer support.
+It can be extended with:
+- A graphical interface (Swing/JavaFX).
+- Different grid sizes and difficulty levels.
+- Score tracking or multiplayer support.
+
+---
+
+## 🚀 How to Run
+
+1. **Clone the repository**:
+```bash
+   git clone https://github.com/davi-peterson/minesweeper-java.git
+   cd minesweeper-java
+```
+2. **Compile and run with Maven**:
+```bash
+    mvn clean compile
+    mvn exec:java -Dexec.mainClass="minesweeper.App"
+```
+
+---
